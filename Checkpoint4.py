@@ -52,5 +52,6 @@ my_list.sort()
 print(my_list)
 
 # Exercise 9: Use reassignment to add an element to your tuple.
-my_tuple = my_tuple += ("blueberries",)
+my_tuple += ("blueberries",)
 print(my_tuple)
+
